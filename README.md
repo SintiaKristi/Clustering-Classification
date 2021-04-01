@@ -1,6 +1,6 @@
 
 # "Memprediksi kelulusan sekolah menengah di Portugis"
-===========================================================================================================
+============================================================================================================
 
 ![image](https://user-images.githubusercontent.com/33625879/113259815-bff4c900-92f7-11eb-9c0e-dd56f9464b4c.png)
 
@@ -39,8 +39,8 @@ Proses K-Means:
 Data dimulai dengan kelompok pertama centroid yang dipilih secara acak, yang digunakan sebagai titik awal untuk setiap cluster, dan kemudian melakukan perhitungan berulang (berulang) untuk mengoptimalkan posisi centroid.
 
 Proses ini berhenti ketika:
->> Centroid telah stabil — tidak ada perubahan dalam nilai-nilai mereka karena pengelompokan telah berhasil
->> Jumlah iterasi yang ditentukan telah tercapai.
+>> Centroid telah stabil — tidak ada perubahan dalam nilai-nilai mereka karena pengelompokan telah berhasil; Dan
+>> jumlah iterasi yang ditentukan telah tercapai.
 
 Hasil dari K-Mean Clustering adalah:
 Centroid dari cluster K, yang dapat digunakan untuk memberi label data baru
